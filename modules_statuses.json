@@ -1,4 +1,8 @@
 {
-    "Test": false,
-    "Test3": false
+    "Test": true,
+    "Test3": true,
+    "User": true,
+    "Admin": true,
+    "Model": true,
+    "Users": true
 }

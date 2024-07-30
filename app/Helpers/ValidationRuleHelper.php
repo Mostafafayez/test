@@ -157,6 +157,7 @@ class ValidationRuleHelper
     {
         $rules = [
             'required' => 'required',
+            
         ];
 
         return static::replaceDefaultRules($rules, $replaceDefaultRules);
